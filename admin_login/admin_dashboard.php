@@ -1,6 +1,18 @@
 <?php
 // Database connection
-$conn = new mysqli('localhost', 'root', '', 'login_register');
+$conn = new mysqli(
+    getenv("DB_HOST") ?: "localhost",
+    getenv("DB_USER") ?: "root",
+    getenv("DB_PASSWORD") ?: "",
+    getenv("DB_NAME") ?: "login_register",
+    getenv("DB_PORT") ?: "3306"
+);
+
+if ($conn->connect_error) {
+    die("Database connection failed: " . $conn->connect_error);
+}
+
+$conn->set_charset("utf8mb4");
 
 // Check connection
 if ($conn->connect_error) {
