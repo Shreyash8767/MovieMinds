@@ -1,0 +1,95 @@
+<?php
+// Database connection
+$conn = new mysqli('localhost', 'root', '', 'login_register');
+
+// Check connection
+if ($conn->connect_error) {
+    die("Connection failed: " . $conn->connect_error);
+}
+
+// Query to get admin details
+$result = $conn->query("SELECT id, full_name, email FROM users WHERE role='admin'");
+
+// Create an array to hold the data
+$admins = array();
+
+// Fetch the data
+while($row = $result->fetch_assoc()) {
+    $admins[] = $row;
+}
+
+// Close connection
+$conn->close();
+
+// Return the data in JSON format
+echo json_encode($admins);
+?>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Dashboard</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        table, th, td {
+            border: 1px solid black;
+        }
+        th, td {
+            padding: 10px;
+            text-align: left;
+        }
+    </style>
+    <script>
+        // Fetch admin details from the server
+        function fetchAdminDetails() {
+            var xhr = new XMLHttpRequest();
+            xhr.open("GET", "registration.php", true); // Replace with your backend URL
+            xhr.onreadystatechange = function () {
+                if (xhr.readyState == 4 && xhr.status == 200) {
+                    var admins = JSON.parse(xhr.responseText); // Parse JSON response
+                    var tableBody = document.getElementById("adminTableBody");
+
+                    // Clear the table before adding new data
+                    tableBody.innerHTML = "";
+
+                    // Loop through the admin data and add rows to the table
+                    admins.forEach(function(admin) {
+                        var row = `<tr>
+                            <td>${admin.id}</td>
+                            <td>${admin.name}</td>
+                            <td>${admin.email}</td>
+                        </tr>`;
+                        tableBody.innerHTML += row;
+                    });
+                }
+            };
+            xhr.send();
+        }
+
+        // Call the function when the page loads
+        window.onload = fetchAdminDetails;
+    </script>
+</head>
+<body>
+    <h1>Admin Dashboard</h1>
+    <h2>Registered Admins</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Email</th>
+            </tr>
+        </thead>
+        <tbody id="adminTableBody">
+            <!-- Admin details will be added here dynamically -->
+        </tbody>
+    </table>
+</body>
+</html>
