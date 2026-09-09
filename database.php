@@ -1,50 +1,41 @@
 <?php
 
-$hostName = getenv("DB_HOST") ?: "localhost";
-$dbUser = getenv("DB_USER") ?: "root";
-$dbPassword = getenv("DB_PASSWORD") ?: "";
-$dbName = getenv("DB_NAME") ?: "login_register";
-$dbPort = getenv("DB_PORT") ?: "3306";
+define("DB_HOST", getenv("DB_HOST") ?: "localhost");
+define("DB_USER", getenv("DB_USER") ?: "root");
+define("DB_PASSWORD", getenv("DB_PASSWORD") ?: "");
+define("DB_NAME", getenv("DB_NAME") ?: "login_register");
+define("DB_PORT", getenv("DB_PORT") ?: "3306");
 
-$conn = mysqli_init();
+$mysqli = mysqli_init();
 
 if (getenv("DB_HOST")) {
 
-    mysqli_ssl_set(
-        $conn,
-        null,
-        null,
-        "/etc/secrets/aiven-ca.pem",
-        null,
-        null
-    );
-
     mysqli_real_connect(
-        $conn,
-        $hostName,
-        $dbUser,
-        $dbPassword,
-        $dbName,
-        $dbPort,
+        $mysqli,
+        DB_HOST,
+        DB_USER,
+        DB_PASSWORD,
+        DB_NAME,
+        DB_PORT,
         null,
         MYSQLI_CLIENT_SSL
     );
 
 } else {
 
-    $conn->real_connect(
-        $hostName,
-        $dbUser,
-        $dbPassword,
-        $dbName,
-        $dbPort
+    $mysqli->real_connect(
+        DB_HOST,
+        DB_USER,
+        DB_PASSWORD,
+        DB_NAME,
+        DB_PORT
     );
 }
 
-if ($conn->connect_error) {
-    die("Database connection failed: " . $conn->connect_error);
+if ($mysqli->connect_error) {
+    die("Database connection failed: " . $mysqli->connect_error);
 }
 
-mysqli_set_charset($conn, "utf8mb4");
+$mysqli->set_charset("utf8mb4");
 
 ?>
