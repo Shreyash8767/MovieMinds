@@ -208,7 +208,7 @@
    <div class="play2l">
      <div class="grid clearfix">
 				  <figure class="effect-jazz mb-0">
-					<a href="#"><img src="img116.jpg" height="515" class="w-100"  alt="abc"></a>
+					<a href="#"><img src="images/img116.jpg" height="515" class="w-100"  alt="abc"></a>
 				  </figure>
 			  </div>
    </div>
@@ -277,33 +277,33 @@ Nikhil Nagesh Bhat Ayesha Syed</span></h6>
 	<div class="play2ri row mt-4">
 	<div class="cast-container">
     <div class="cast-member">
-        <a href="#"><img src="img118.jpg" alt="Cast 1"></a>
+        <a href="#"><img src="images/img118.jpg" alt="Cast 1"></a>
         <h5 class="mt-3"><span class="col_red">Lakshya</span></h5>
 		<h6>Amrit Rathod</h6>
     </div>
     <div class="cast-member">
-       <a href="#"> <img src="img119.jpg" alt="Cast 2"></a>
+       <a href="#"> <img src="images/img119.jpg" alt="Cast 2"></a>
         <h5 class="mt-3"><span class="col_red">Raghav Juyal</span></h5>
 		<h6>Fani</h6>
     </div>
     <div class="cast-member">
-       <a href="#"> <img src="img120.jpg" alt="Cast 3"></a>
+       <a href="#"> <img src="images/img120.jpg" alt="Cast 3"></a>
         <h5 class="mt-3"><span class="col_red">Tanya Maniktala</span></h5>
 		<h6>Tulika Singh</h6>
     </div>
 
 	<div class="cast-member">
-        <a href="#"><img src="img121.jpg" alt="Cast 1"></a>
+        <a href="#"><img src="images/img121.jpg" alt="Cast 1"></a>
         <h5 class="mt-3"><span class="col_red">Ashish Vidyarthi</span></h5>
 		<h6>Beni</h6>
     </div>
     <div class="cast-member">
-       <a href="#"> <img src="img122.jpg" alt="Cast 2"></a>
+       <a href="#"> <img src="images/img122.jpg" alt="Cast 2"></a>
         <h5 class="mt-3"><span class="col_red">Meenal Kapoor</span></h5>
 		<h6>Tulika's Mother</h6>
     </div>
     <div class="cast-member">
-      <a href="#">  <img src="img123.jpg" alt="Cast 3"></a>
+      <a href="#">  <img src="images/img123.jpg" alt="Cast 3"></a>
         <h5 class="mt-3"><span class="col_red">Adrija Sinha</span></h5>
 		<h6>Aahana</h6>
     </div>
@@ -350,16 +350,16 @@ Nikhil Nagesh Bhat Ayesha Syed</span></h6>
 
  <div class="play2ri row mt-4">		
 	<div class="image-row">
-	<img src="img124.jpg" alt="Image 1">
-    <img src="img125.jpg" alt="Image 2">
-    <img src="img126.jpg" alt="Image 3">
+	<img src="images/img124.jpg" alt="Image 1">
+    <img src="images/img125.jpg" alt="Image 2">
+    <img src="images/img126.jpg" alt="Image 3">
 	 </div>
  </div>
  <div class="play2ri row mt-4">		
 	<div class="image-row">
-	<img src="img127.jpg" alt="Image 1">
-    <img src="img128.jpg" alt="Image 2">
-    <img src="img129.jpg" alt="Image 3">
+	<img src="images/img127.jpg" alt="Image 1">
+    <img src="images/img128.jpg" alt="Image 2">
+    <img src="images/img129.jpg" alt="Image 3">
 	 </div>
  </div>
    
@@ -454,7 +454,7 @@ Nikhil Nagesh Bhat Ayesha Syed</span></h6>
 	    <div class="footer_1i1i">
 		  <div class="grid clearfix">
 				  <figure class="effect-jazz mb-0">
-					<a href="#"><img src="img16.jpg" height="70" class="w-100" alt="abc"></a>
+					<a href="#"><img src="images/img16.jpg" height="70" class="w-100" alt="abc"></a>
 				  </figure>
 			  </div>
 		</div>
@@ -463,7 +463,7 @@ Nikhil Nagesh Bhat Ayesha Syed</span></h6>
 	    <div class="footer_1i1i">
 		  <div class="grid clearfix">
 				  <figure class="effect-jazz mb-0">
-					<a href="#"><img src="img17.jpg" height="70" class="w-100" alt="abc"></a>
+					<a href="#"><img src="images/img17.jpg" height="70" class="w-100" alt="abc"></a>
 				  </figure>
 			  </div>
 		</div>
@@ -472,7 +472,7 @@ Nikhil Nagesh Bhat Ayesha Syed</span></h6>
 	    <div class="footer_1i1i">
 		  <div class="grid clearfix">
 				  <figure class="effect-jazz mb-0">
-					<a href="#"><img src="img18.jpg" height="70" class="w-100" alt="abc"></a>
+					<a href="#"><img src="images/img18.jpg" height="70" class="w-100" alt="abc"></a>
 				  </figure>
 			  </div>
 		</div>
@@ -481,7 +481,7 @@ Nikhil Nagesh Bhat Ayesha Syed</span></h6>
 	    <div class="footer_1i1i">
 		  <div class="grid clearfix">
 				  <figure class="effect-jazz mb-0">
-					<a href="#"><img src="img19.jpg" height="70" class="w-100" alt="abc"></a>
+					<a href="#"><img src="images/img19.jpg" height="70" class="w-100" alt="abc"></a>
 				  </figure>
 			  </div>
 		</div>
@@ -492,7 +492,7 @@ Nikhil Nagesh Bhat Ayesha Syed</span></h6>
 	    <div class="footer_1i1i">
 		  <div class="grid clearfix">
 				  <figure class="effect-jazz mb-0">
-					<a href="#"><img src="img20.jpg" height="70" class="w-100" alt="abc"></a>
+					<a href="#"><img src="images/img20.jpg" height="70" class="w-100" alt="abc"></a>
 				  </figure>
 			  </div>
 		</div>
@@ -501,7 +501,7 @@ Nikhil Nagesh Bhat Ayesha Syed</span></h6>
 	    <div class="footer_1i1i">
 		  <div class="grid clearfix">
 				  <figure class="effect-jazz mb-0">
-					<a href="#"><img src="img21.jpg" height="70" class="w-100" alt="abc"></a>
+					<a href="#"><img src="images/img21.jpg" height="70" class="w-100" alt="abc"></a>
 				  </figure>
 			  </div>
 		</div>
@@ -510,7 +510,7 @@ Nikhil Nagesh Bhat Ayesha Syed</span></h6>
 	    <div class="footer_1i1i">
 		  <div class="grid clearfix">
 				  <figure class="effect-jazz mb-0">
-					<a href="#"><img src="img22.jpg" height="70" class="w-100" alt="abc"></a>
+					<a href="#"><img src="images/img22.jpg" height="70" class="w-100" alt="abc"></a>
 				  </figure>
 			  </div>
 		</div>
@@ -519,7 +519,7 @@ Nikhil Nagesh Bhat Ayesha Syed</span></h6>
 	    <div class="footer_1i1i">
 		  <div class="grid clearfix">
 				  <figure class="effect-jazz mb-0">
-					<a href="#"><img src="img23.jpg" height="70" class="w-100" alt="abc"></a>
+					<a href="#"><img src="images/img23.jpg" height="70" class="w-100" alt="abc"></a>
 				  </figure>
 			  </div>
 		</div>

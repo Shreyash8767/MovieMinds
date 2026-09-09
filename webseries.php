@@ -122,7 +122,7 @@
 		   <div class="trend_2im1 clearfix">
 		     <div class="grid">
 		  <figure class="effect-jazz mb-0">
-			<a href="#"><img src="img61.jpg" class="w-100" alt="img25"></a>
+			<a href="#"><img src="images/img61.jpg" class="w-100" alt="img25"></a>
 		  </figure>
 	  </div>
 		   </div>
@@ -148,7 +148,7 @@
 		   <div class="trend_2im1 clearfix">
 		     <div class="grid">
 		  <figure class="effect-jazz mb-0">
-			<a href="#"><img src="img62.jpg" class="w-100" alt="img25"></a>
+			<a href="#"><img src="images/img62.jpg" class="w-100" alt="img25"></a>
 		  </figure>
 	  </div>
 		   </div>
@@ -174,7 +174,7 @@
 		   <div class="trend_2im1 clearfix">
 		     <div class="grid">
 		  <figure class="effect-jazz mb-0">
-			<a href="#"><img src="img63.jpg" class="w-100" alt="img25"></a>
+			<a href="#"><img src="images/img63.jpg" class="w-100" alt="img25"></a>
 		  </figure>
 	  </div>
 		   </div>
@@ -200,7 +200,7 @@
 		   <div class="trend_2im1 clearfix">
 		     <div class="grid">
 		  <figure class="effect-jazz mb-0">
-			<a href="#"><img src="img64.jpg" class="w-100" alt="img25"></a>
+			<a href="#"><img src="images/img64.jpg" class="w-100" alt="img25"></a>
 		  </figure>
 	  </div>
 		   </div>
@@ -252,7 +252,7 @@
 		   <div class="trend_2im1 clearfix">
 		     <div class="grid">
 		  <figure class="effect-jazz mb-0">
-			<a href="#"><img src="img65.jpg" class="w-100" alt="img25"></a>
+			<a href="#"><img src="images/img65.jpg" class="w-100" alt="img25"></a>
 		  </figure>
 	  </div>
 		   </div>
@@ -275,7 +275,7 @@
 		   <div class="trend_2im1 clearfix">
 		     <div class="grid">
 		  <figure class="effect-jazz mb-0">
-			<a href="#"><img src="img66.jpg" class="w-100" alt="img25"></a>
+			<a href="#"><img src="images/img66.jpg" class="w-100" alt="img25"></a>
 		  </figure>
 	  </div>
 		   </div>
@@ -299,7 +299,7 @@
 		   <div class="trend_2im1 clearfix">
 		     <div class="grid">
 		  <figure class="effect-jazz mb-0">
-			<a href="#"><img src="img67.jpg" class="w-100" alt="img25"></a>
+			<a href="#"><img src="images/img67.jpg" class="w-100" alt="img25"></a>
 		  </figure>
 	  </div>
 		   </div>
@@ -322,7 +322,7 @@
 		   <div class="trend_2im1 clearfix">
 		     <div class="grid">
 		  <figure class="effect-jazz mb-0">
-			<a href="#"><img src="img68.jpg" class="w-100" alt="img25"></a>
+			<a href="#"><img src="images/img68.jpg" class="w-100" alt="img25"></a>
 		  </figure>
 	  </div>
 		   </div>
@@ -371,7 +371,7 @@
 		   <div class="trend_2im1 clearfix">
 		     <div class="grid">
 		  <figure class="effect-jazz mb-0">
-			<a href="#"><img src="img69.jpg" class="w-100" alt="img25"></a>
+			<a href="#"><img src="images/img69.jpg" class="w-100" alt="img25"></a>
 		  </figure>
 	  </div>
 		   </div>
@@ -397,7 +397,7 @@
 		   <div class="trend_2im1 clearfix">
 		     <div class="grid">
 		  <figure class="effect-jazz mb-0">
-			<a href="#"><img src="img70.jpg" class="w-100" alt="img25"></a>
+			<a href="#"><img src="images/img70.jpg" class="w-100" alt="img25"></a>
 		  </figure>
 	  </div>
 		   </div>
@@ -423,7 +423,7 @@
 		   <div class="trend_2im1 clearfix">
 		     <div class="grid">
 		  <figure class="effect-jazz mb-0">
-			<a href="#"><img src="img71.jpg" class="w-100" alt="img25"></a>
+			<a href="#"><img src="images/img71.jpg" class="w-100" alt="img25"></a>
 		  </figure>
 	  </div>
 		   </div>
@@ -450,7 +450,7 @@
 		   <div class="trend_2im1 clearfix">
 		     <div class="grid">
 		  <figure class="effect-jazz mb-0">
-			<a href="#"><img src="img72.jpg" class="w-100" alt="img25"></a>
+			<a href="#"><img src="images/img72.jpg" class="w-100" alt="img25"></a>
 		  </figure>
 	  </div>
 		   </div>
@@ -498,7 +498,7 @@
 		   <div class="trend_2im1 clearfix">
 		     <div class="grid">
 		  <figure class="effect-jazz mb-0">
-			<a href="#"><img src="img73.jpg" class="w-100" alt="img25"></a>
+			<a href="#"><img src="images/img73.jpg" class="w-100" alt="img25"></a>
 		  </figure>
 	  </div>
 		   </div>
@@ -524,7 +524,7 @@
 		   <div class="trend_2im1 clearfix">
 		     <div class="grid">
 		  <figure class="effect-jazz mb-0">
-			<a href="#"><img src="img74.jpg" class="w-100" alt="img25"></a>
+			<a href="#"><img src="images/img74.jpg" class="w-100" alt="img25"></a>
 		  </figure>
 	  </div>
 		   </div>
@@ -550,7 +550,7 @@
 		   <div class="trend_2im1 clearfix">
 		     <div class="grid">
 		  <figure class="effect-jazz mb-0">
-			<a href="#"><img src="img75.jpg" class="w-100" alt="img25"></a>
+			<a href="#"><img src="images/img75.jpg" class="w-100" alt="img25"></a>
 		  </figure>
 	  </div>
 		   </div>
@@ -576,7 +576,7 @@
 		   <div class="trend_2im1 clearfix">
 		     <div class="grid">
 		  <figure class="effect-jazz mb-0">
-			<a href="#"><img src="img76.jpg" class="w-100" alt="img25"></a>
+			<a href="#"><img src="images/img76.jpg" class="w-100" alt="img25"></a>
 		  </figure>
 	  </div>
 		   </div>
@@ -618,7 +618,7 @@
 		   <div class="trend_2im1 clearfix">
 		     <div class="grid">
 		  <figure class="effect-jazz mb-0">
-			<a href="#"><img src="img64.jpg" class="w-100" alt="img25"></a>
+			<a href="#"><img src="images/img64.jpg" class="w-100" alt="img25"></a>
 		  </figure>
 	  </div>
 		   </div>
@@ -678,7 +678,7 @@
 	    <div class="footer_1i1i">
 		  <div class="grid clearfix">
 				  <figure class="effect-jazz mb-0">
-					<a href="#"><img src="img16.jpg" height="70" class="w-100" alt="abc"></a>
+					<a href="#"><img src="images/img16.jpg" height="70" class="w-100" alt="abc"></a>
 				  </figure>
 			  </div>
 		</div>
@@ -687,7 +687,7 @@
 	    <div class="footer_1i1i">
 		  <div class="grid clearfix">
 				  <figure class="effect-jazz mb-0">
-					<a href="#"><img src="img17.jpg" height="70" class="w-100" alt="abc"></a>
+					<a href="#"><img src="images/img17.jpg" height="70" class="w-100" alt="abc"></a>
 				  </figure>
 			  </div>
 		</div>
@@ -696,7 +696,7 @@
 	    <div class="footer_1i1i">
 		  <div class="grid clearfix">
 				  <figure class="effect-jazz mb-0">
-					<a href="#"><img src="img18.jpg" height="70" class="w-100" alt="abc"></a>
+					<a href="#"><img src="images/img18.jpg" height="70" class="w-100" alt="abc"></a>
 				  </figure>
 			  </div>
 		</div>
@@ -705,7 +705,7 @@
 	    <div class="footer_1i1i">
 		  <div class="grid clearfix">
 				  <figure class="effect-jazz mb-0">
-					<a href="#"><img src="img19.jpg" height="70" class="w-100" alt="abc"></a>
+					<a href="#"><img src="images/img19.jpg" height="70" class="w-100" alt="abc"></a>
 				  </figure>
 			  </div>
 		</div>
@@ -716,7 +716,7 @@
 	    <div class="footer_1i1i">
 		  <div class="grid clearfix">
 				  <figure class="effect-jazz mb-0">
-					<a href="#"><img src="img20.jpg" height="70" class="w-100" alt="abc"></a>
+					<a href="#"><img src="images/img20.jpg" height="70" class="w-100" alt="abc"></a>
 				  </figure>
 			  </div>
 		</div>
@@ -725,7 +725,7 @@
 	    <div class="footer_1i1i">
 		  <div class="grid clearfix">
 				  <figure class="effect-jazz mb-0">
-					<a href="#"><img src="img21.jpg" height="70" class="w-100" alt="abc"></a>
+					<a href="#"><img src="images/img21.jpg" height="70" class="w-100" alt="abc"></a>
 				  </figure>
 			  </div>
 		</div>
@@ -734,7 +734,7 @@
 	    <div class="footer_1i1i">
 		  <div class="grid clearfix">
 				  <figure class="effect-jazz mb-0">
-					<a href="#"><img src="img22.jpg" height="70" class="w-100" alt="abc"></a>
+					<a href="#"><img src="images/img22.jpg" height="70" class="w-100" alt="abc"></a>
 				  </figure>
 			  </div>
 		</div>
@@ -743,7 +743,7 @@
 	    <div class="footer_1i1i">
 		  <div class="grid clearfix">
 				  <figure class="effect-jazz mb-0">
-					<a href="#"><img src="img23.jpg" height="70" class="w-100" alt="abc"></a>
+					<a href="#"><img src="images/img23.jpg" height="70" class="w-100" alt="abc"></a>
 				  </figure>
 			  </div>
 		</div>

@@ -208,7 +208,7 @@
    <div class="play2l">
      <div class="grid clearfix">
 				  <figure class="effect-jazz mb-0">
-					<a href="#"><img src="img130.jpg" height="515" class="w-100"  alt="abc"></a>
+					<a href="#"><img src="images/img130.jpg" height="515" class="w-100"  alt="abc"></a>
 				  </figure>
 			  </div>
    </div>
@@ -279,33 +279,33 @@ Writers: <span class="pull-right">Ryan Reynolds, Rhett Reese ,Paul Wernick</span
 	<div class="play2ri row mt-4">
 	<div class="cast-container">
     <div class="cast-member">
-        <a href="https://en.wikipedia.org/wiki/Ryan_Reynolds"><img src="img84.jpg" alt="Cast 1"></a>
+        <a href="https://en.wikipedia.org/wiki/Ryan_Reynolds"><img src="images/img84.jpg" alt="Cast 1"></a>
         <h5 class="mt-3"><span class="col_red">Ryan Reynolds</span></h5>
 		<h6>Wade Wilson<br>(as Deadpool)</h6>
     </div>
     <div class="cast-member">
-       <a href="https://en.wikipedia.org/wiki/Hugh_Jackman"> <img src="img85.jpg" alt="Cast 2"></a>
+       <a href="https://en.wikipedia.org/wiki/Hugh_Jackman"> <img src="images/img85.jpg" alt="Cast 2"></a>
         <h5 class="mt-3"><span class="col_red">Hugh Jackman</span></h5>
 		<h6>Logan<br>(as Wolverine)</h6>
     </div>
     <div class="cast-member">
-       <a href="https://en.wikipedia.org/wiki/Emma_Corrin"> <img src="img86.jpg" alt="Cast 3"></a>
+       <a href="https://en.wikipedia.org/wiki/Emma_Corrin"> <img src="images/img86.jpg" alt="Cast 3"></a>
         <h5 class="mt-3"><span class="col_red">Emma Corrin</span></h5>
 		<h6>Cassandra Nova</h6>
     </div>
 
 	<div class="cast-member">
-        <a href="https://en.wikipedia.org/wiki/Matthew_Macfadyen"><img src="img87.jpg" alt="Cast 1"></a>
+        <a href="https://en.wikipedia.org/wiki/Matthew_Macfadyen"><img src="images/img87.jpg" alt="Cast 1"></a>
         <h5 class="mt-3"><span class="col_red">Matthew Macfadyen</span></h5>
 		<h6>Mr. Paradox</h6>
     </div>
     <div class="cast-member">
-       <a href="https://en.wikipedia.org/wiki/Jon_Favreau"> <img src="img88.jpg" alt="Cast 2"></a>
+       <a href="https://en.wikipedia.org/wiki/Jon_Favreau"> <img src="images/img88.jpg" alt="Cast 2"></a>
         <h5 class="mt-3"><span class="col_red">Jon Favreau</span></h5>
 		<h6>Happy Hogan</h6>
     </div>
     <div class="cast-member">
-      <a href="https://en.wikipedia.org/wiki/Chris_Evans_(actor)">  <img src="img89.jpg" alt="Cast 3"></a>
+      <a href="https://en.wikipedia.org/wiki/Chris_Evans_(actor)">  <img src="images/img89.jpg" alt="Cast 3"></a>
         <h5 class="mt-3"><span class="col_red">Chris Evans</span></h5>
 		<h6>Johnny Storm</h6>
     </div>
@@ -352,16 +352,16 @@ Writers: <span class="pull-right">Ryan Reynolds, Rhett Reese ,Paul Wernick</span
 
  <div class="play2ri row mt-4">		
 	<div class="image-row">
-	<img src="img131.jpg" alt="Image 1">
-    <img src="img132.jpg" alt="Image 2">
-    <img src="img133.jpg" alt="Image 3">
+	<img src="images/img131.jpg" alt="Image 1">
+    <img src="images/img132.jpg" alt="Image 2">
+    <img src="images/img133.jpg" alt="Image 3">
 	 </div>
  </div>
  <div class="play2ri row mt-4">		
 	<div class="image-row">
-	<img src="img134.jpg" alt="Image 1">
-    <img src="img135.jpg" alt="Image 2">
-    <img src="img136.jpg" alt="Image 3">
+	<img src="images/img134.jpg" alt="Image 1">
+    <img src="images/img135.jpg" alt="Image 2">
+    <img src="images/img136.jpg" alt="Image 3">
 	 </div>
  </div>
    
@@ -456,7 +456,7 @@ Writers: <span class="pull-right">Ryan Reynolds, Rhett Reese ,Paul Wernick</span
 	    <div class="footer_1i1i">
 		  <div class="grid clearfix">
 				  <figure class="effect-jazz mb-0">
-					<a href="#"><img src="img16.jpg" height="70" class="w-100" alt="abc"></a>
+					<a href="#"><img src="images/img16.jpg" height="70" class="w-100" alt="abc"></a>
 				  </figure>
 			  </div>
 		</div>
@@ -465,7 +465,7 @@ Writers: <span class="pull-right">Ryan Reynolds, Rhett Reese ,Paul Wernick</span
 	    <div class="footer_1i1i">
 		  <div class="grid clearfix">
 				  <figure class="effect-jazz mb-0">
-					<a href="#"><img src="img17.jpg" height="70" class="w-100" alt="abc"></a>
+					<a href="#"><img src="images/img17.jpg" height="70" class="w-100" alt="abc"></a>
 				  </figure>
 			  </div>
 		</div>
@@ -474,7 +474,7 @@ Writers: <span class="pull-right">Ryan Reynolds, Rhett Reese ,Paul Wernick</span
 	    <div class="footer_1i1i">
 		  <div class="grid clearfix">
 				  <figure class="effect-jazz mb-0">
-					<a href="#"><img src="img18.jpg" height="70" class="w-100" alt="abc"></a>
+					<a href="#"><img src="images/img18.jpg" height="70" class="w-100" alt="abc"></a>
 				  </figure>
 			  </div>
 		</div>
@@ -483,7 +483,7 @@ Writers: <span class="pull-right">Ryan Reynolds, Rhett Reese ,Paul Wernick</span
 	    <div class="footer_1i1i">
 		  <div class="grid clearfix">
 				  <figure class="effect-jazz mb-0">
-					<a href="#"><img src="img19.jpg" height="70" class="w-100" alt="abc"></a>
+					<a href="#"><img src="images/img19.jpg" height="70" class="w-100" alt="abc"></a>
 				  </figure>
 			  </div>
 		</div>
@@ -494,7 +494,7 @@ Writers: <span class="pull-right">Ryan Reynolds, Rhett Reese ,Paul Wernick</span
 	    <div class="footer_1i1i">
 		  <div class="grid clearfix">
 				  <figure class="effect-jazz mb-0">
-					<a href="#"><img src="img20.jpg" height="70" class="w-100" alt="abc"></a>
+					<a href="#"><img src="images/img20.jpg" height="70" class="w-100" alt="abc"></a>
 				  </figure>
 			  </div>
 		</div>
@@ -503,7 +503,7 @@ Writers: <span class="pull-right">Ryan Reynolds, Rhett Reese ,Paul Wernick</span
 	    <div class="footer_1i1i">
 		  <div class="grid clearfix">
 				  <figure class="effect-jazz mb-0">
-					<a href="#"><img src="img21.jpg" height="70" class="w-100" alt="abc"></a>
+					<a href="#"><img src="images/img21.jpg" height="70" class="w-100" alt="abc"></a>
 				  </figure>
 			  </div>
 		</div>
@@ -512,7 +512,7 @@ Writers: <span class="pull-right">Ryan Reynolds, Rhett Reese ,Paul Wernick</span
 	    <div class="footer_1i1i">
 		  <div class="grid clearfix">
 				  <figure class="effect-jazz mb-0">
-					<a href="#"><img src="img22.jpg" height="70" class="w-100" alt="abc"></a>
+					<a href="#"><img src="images/img22.jpg" height="70" class="w-100" alt="abc"></a>
 				  </figure>
 			  </div>
 		</div>
@@ -521,7 +521,7 @@ Writers: <span class="pull-right">Ryan Reynolds, Rhett Reese ,Paul Wernick</span
 	    <div class="footer_1i1i">
 		  <div class="grid clearfix">
 				  <figure class="effect-jazz mb-0">
-					<a href="#"><img src="img23.jpg" height="70" class="w-100" alt="abc"></a>
+					<a href="#"><img src="images/img23.jpg" height="70" class="w-100" alt="abc"></a>
 				  </figure>
 			  </div>
 		</div>

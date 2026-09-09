@@ -116,7 +116,7 @@
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="img1.webp" class="d-block w-100" alt="...">
+      <img src="images/img1.webp" class="d-block w-100" alt="...">
       <div class="carousel-caption d-md-block">
        <h1 class="font_60"> Chhaava</h1>
 	   <h6 class="mt-3">
@@ -148,7 +148,7 @@ Vicky Kaushal · Rashmika Mandanna </p>
 
 
     <div class="carousel-item">
-      <img src="img2.jpg" class="d-block w-100" alt="...">
+      <img src="images/img2.jpg" class="d-block w-100" alt="...">
       <div class="carousel-caption d-md-block">
        <h1 class="font_60">The Diplomat</h1>
 	   <h6 class="mt-3">
@@ -178,7 +178,7 @@ Vicky Kaushal · Rashmika Mandanna </p>
 
 
     <div class="carousel-item">
-      <img src="img3.jpg" class="d-block w-100" alt="...">
+      <img src="images/img3.jpg" class="d-block w-100" alt="...">
       <div class="carousel-caption d-md-block">
        <h1 class="font_60">Jolly LLB 3</h1>
 	   <h6 class="mt-3">
@@ -234,7 +234,7 @@ Akshay Kumar,Arshad Warsi</p>
 		   <div class="trend_2im1 clearfix">
 		     <div class="grid">
 		  <figure class="effect-jazz mb-0">
-			<a href="#"><img src="img4.webp" class="w-100" alt="img25"></a>
+			<a href="#"><img src="images/img4.webp" class="w-100" alt="img25"></a>
 		  </figure>
 	  </div>
 
@@ -265,7 +265,7 @@ Akshay Kumar,Arshad Warsi</p>
 		   <div class="trend_2im1 clearfix">
 		     <div class="grid">
 		  <figure class="effect-jazz mb-0">
-			<a href="#"><img src="img5.jpg" class="w-100" alt="img25"></a>
+			<a href="#"><img src="images/img5.jpg" class="w-100" alt="img25"></a>
 		  </figure>
 	  </div>
 		   </div>
@@ -291,7 +291,7 @@ Akshay Kumar,Arshad Warsi</p>
 		   <div class="trend_2im1 clearfix">
 		     <div class="grid">
 		  <figure class="effect-jazz mb-0">
-			<a href="#"><img src="img6.jpg" class="w-100" alt="img25"></a>
+			<a href="#"><img src="images/img6.jpg" class="w-100" alt="img25"></a>
 		  </figure>
 	  </div>
 		   </div>
@@ -317,7 +317,7 @@ Akshay Kumar,Arshad Warsi</p>
 		   <div class="trend_2im1 clearfix">
 		     <div class="grid">
 		  <figure class="effect-jazz mb-0">
-			<a href="#"><img src="img7.jpg" class="w-100" alt="img25"></a>
+			<a href="#"><img src="images/img7.jpg" class="w-100" alt="img25"></a>
 		  </figure>
 	  </div>
 		   </div>
@@ -379,7 +379,7 @@ Akshay Kumar,Arshad Warsi</p>
 		   <div class="trend_2im1 clearfix">
 		     <div class="grid">
 		  <figure class="effect-jazz mb-0">
-			<a href="#"><img src="img8.jpg" class="w-100" alt="img25"></a>
+			<a href="#"><img src="images/img8.jpg" class="w-100" alt="img25"></a>
 		  </figure>
 	  </div>
 		   </div>
@@ -405,7 +405,7 @@ Akshay Kumar,Arshad Warsi</p>
 		   <div class="trend_2im1 clearfix">
 		     <div class="grid">
 		  <figure class="effect-jazz mb-0">
-			<a href="#"><img src="img9.jpg" class="w-100" alt="img25"></a>
+			<a href="#"><img src="images/img9.jpg" class="w-100" alt="img25"></a>
 		  </figure>
 	  </div>
 		   </div>
@@ -431,7 +431,7 @@ Akshay Kumar,Arshad Warsi</p>
 		   <div class="trend_2im1 clearfix">
 		     <div class="grid">
 		  <figure class="effect-jazz mb-0">
-			<a href="#"><img src="img10.jpg" class="w-100" alt="img25"></a>
+			<a href="#"><img src="images/img10.jpg" class="w-100" alt="img25"></a>
 		  </figure>
 	  </div>
 		   </div>
@@ -496,7 +496,7 @@ Akshay Kumar,Arshad Warsi</p>
 		   <div class="popular_2i1lm1 clearfix">
 		      <div class="grid">
 		  <figure class="effect-jazz mb-0">
-			<a href="deadpool.php"><img src="img12.jpg" class="w-100" alt="img25"></a>
+			<a href="deadpool.php"><img src="images/img12.jpg" class="w-100" alt="img25"></a>
 		  </figure>
 	  </div>
 		   </div>
@@ -522,7 +522,7 @@ Akshay Kumar,Arshad Warsi</p>
 		   <div class="popular_2i1lm1 clearfix">
 		      <div class="grid">
 		  <figure class="effect-jazz mb-0">
-			<a href="#"><img src="img11.jpg" class="w-100" alt="img25"></a>
+			<a href="#"><img src="images/img11.jpg" class="w-100" alt="img25"></a>
 		  </figure>
 	  </div>
 		   </div>
@@ -550,7 +550,7 @@ Akshay Kumar,Arshad Warsi</p>
 		   <div class="popular_2i1lm1 clearfix">
 		      <div class="grid">
 		  <figure class="effect-jazz mb-0">
-			<a href="#"><img src="img13.jpg" class="w-100" alt="img25"></a>
+			<a href="#"><img src="images/img13.jpg" class="w-100" alt="img25"></a>
 		  </figure>
 	  </div>
 		   </div>
@@ -577,7 +577,7 @@ Akshay Kumar,Arshad Warsi</p>
 		   <div class="popular_2i1lm1 clearfix">
 		      <div class="grid">
 		  <figure class="effect-jazz mb-0">
-			<a href="#"><img src="img14.jpg" class="w-100" alt="img25"></a>
+			<a href="#"><img src="images/img14.jpg" class="w-100" alt="img25"></a>
 		  </figure>
 	  </div>
 		   </div>
@@ -631,7 +631,7 @@ Akshay Kumar,Arshad Warsi</p>
    <div class="play2l">
      <div class="grid clearfix">
 				  <figure class="effect-jazz mb-0">
-					<a href="#"><img src="img15.jpg" height="515" class="w-100"  alt="abc"></a>
+					<a href="#"><img src="images/img15.jpg" height="515" class="w-100"  alt="abc"></a>
 				  </figure>
 			  </div>
    </div>
@@ -710,7 +710,7 @@ Release Date: <span class="pull-right">15 Aug 2024</span></h6>
 	    <div class="footer_1i1i">
 		  <div class="grid clearfix">
 				  <figure class="effect-jazz mb-0">
-					<a href="#"><img src="img16.jpg" height="70" class="w-100" alt="abc"></a>
+					<a href="#"><img src="images/img16.jpg" height="70" class="w-100" alt="abc"></a>
 				  </figure>
 			  </div>
 		</div>
@@ -719,7 +719,7 @@ Release Date: <span class="pull-right">15 Aug 2024</span></h6>
 	    <div class="footer_1i1i">
 		  <div class="grid clearfix">
 				  <figure class="effect-jazz mb-0">
-					<a href="#"><img src="img17.jpg" height="70" class="w-100" alt="abc"></a>
+					<a href="#"><img src="images/img17.jpg" height="70" class="w-100" alt="abc"></a>
 				  </figure>
 			  </div>
 		</div>
@@ -728,7 +728,7 @@ Release Date: <span class="pull-right">15 Aug 2024</span></h6>
 	    <div class="footer_1i1i">
 		  <div class="grid clearfix">
 				  <figure class="effect-jazz mb-0">
-					<a href="#"><img src="img18.jpg" height="70" class="w-100" alt="abc"></a>
+					<a href="#"><img src="images/img18.jpg" height="70" class="w-100" alt="abc"></a>
 				  </figure>
 			  </div>
 		</div>
@@ -737,7 +737,7 @@ Release Date: <span class="pull-right">15 Aug 2024</span></h6>
 	    <div class="footer_1i1i">
 		  <div class="grid clearfix">
 				  <figure class="effect-jazz mb-0">
-					<a href="#"><img src="img19.jpg" height="70" class="w-100" alt="abc"></a>
+					<a href="#"><img src="images/img19.jpg" height="70" class="w-100" alt="abc"></a>
 				  </figure>
 			  </div>
 		</div>
@@ -748,7 +748,7 @@ Release Date: <span class="pull-right">15 Aug 2024</span></h6>
 	    <div class="footer_1i1i">
 		  <div class="grid clearfix">
 				  <figure class="effect-jazz mb-0">
-					<a href="#"><img src="img20.jpg" height="70" class="w-100" alt="abc"></a>
+					<a href="#"><img src="images/img20.jpg" height="70" class="w-100" alt="abc"></a>
 				  </figure>
 			  </div>
 		</div>
@@ -757,7 +757,7 @@ Release Date: <span class="pull-right">15 Aug 2024</span></h6>
 	    <div class="footer_1i1i">
 		  <div class="grid clearfix">
 				  <figure class="effect-jazz mb-0">
-					<a href="#"><img src="img21.jpg" height="70" class="w-100" alt="abc"></a>
+					<a href="#"><img src="images/img21.jpg" height="70" class="w-100" alt="abc"></a>
 				  </figure>
 			  </div>
 		</div>
@@ -766,7 +766,7 @@ Release Date: <span class="pull-right">15 Aug 2024</span></h6>
 	    <div class="footer_1i1i">
 		  <div class="grid clearfix">
 				  <figure class="effect-jazz mb-0">
-					<a href="#"><img src="img22.jpg" height="70" class="w-100" alt="abc"></a>
+					<a href="#"><img src="images/img22.jpg" height="70" class="w-100" alt="abc"></a>
 				  </figure>
 			  </div>
 		</div>
@@ -775,7 +775,7 @@ Release Date: <span class="pull-right">15 Aug 2024</span></h6>
 	    <div class="footer_1i1i">
 		  <div class="grid clearfix">
 				  <figure class="effect-jazz mb-0">
-					<a href="#"><img src="img23.jpg" height="70" class="w-100" alt="abc"></a>
+					<a href="#"><img src="images/img23.jpg" height="70" class="w-100" alt="abc"></a>
 				  </figure>
 			  </div>
 		</div>

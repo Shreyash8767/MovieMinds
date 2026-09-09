@@ -208,7 +208,7 @@
    <div class="play2l">
      <div class="grid clearfix">
 				  <figure class="effect-jazz mb-0">
-					<a href="#"><img src="img1033.jpg" height="515" class="w-100"  alt="abc"></a>
+					<a href="#"><img src="images/img1033.jpg" height="515" class="w-100"  alt="abc"></a>
 				  </figure>
 			  </div>
    </div>
@@ -280,7 +280,7 @@ Writers: <span class="pull-right">Subhash Kapoor</span></h6>
 	<div class="play2ri row mt-4">
 	<div class="cast-container">
     <div class="cast-member">
-        <a href="https://en.m.wikipedia.org/wiki/Akshay_Kumar"><img src="img1044.jpg" alt="Cast 1"></a>
+        <a href="https://en.m.wikipedia.org/wiki/Akshay_Kumar"><img src="images/img1044.jpg" alt="Cast 1"></a>
         <h5 class="mt-3"><span class="col_red">Akshay Kumar</span></h5>
 		    </div>
 
@@ -288,14 +288,14 @@ Writers: <span class="pull-right">Subhash Kapoor</span></h6>
 
 
     <div class="cast-member">
-       <a href="https://en.m.wikipedia.org/wiki/Arshad_Warsi"> <img src="img1055.jpg" alt="Cast 2"></a>
+       <a href="https://en.m.wikipedia.org/wiki/Arshad_Warsi"> <img src="images/img1055.jpg" alt="Cast 2"></a>
         <h5 class="mt-3"><span class="col_red">Arshad Warsi</span></h5>
 		    </div>
 
 
 
     	<div class="cast-member">
-        <a href="https://en.m.wikipedia.org/wiki/Amrita_Rao"><img src="img1077.jpg" alt="Cast 1"></a>
+        <a href="https://en.m.wikipedia.org/wiki/Amrita_Rao"><img src="images/img1077.jpg" alt="Cast 1"></a>
         <h5 class="mt-3"><span class="col_red">Amrita Rao</span></h5>
 		
     </div>
@@ -346,9 +346,9 @@ Writers: <span class="pull-right">Subhash Kapoor</span></h6>
 
  <div class="play2ri row mt-4">		
 	<div class="image-row">
-	<img src="img1100.jpg" alt="Image 1">
-    <img src="img1111.jpg" alt="Image 2">
-    <img src="img1122.jpg" alt="Image 3">
+	<img src="images/img1100.jpg" alt="Image 1">
+    <img src="images/img1111.jpg" alt="Image 2">
+    <img src="images/img1122.jpg" alt="Image 3">
 	 </div>
  </div>
    
@@ -443,7 +443,7 @@ Writers: <span class="pull-right">Subhash Kapoor</span></h6>
 	    <div class="footer_1i1i">
 		  <div class="grid clearfix">
 				  <figure class="effect-jazz mb-0">
-					<a href="#"><img src="img16.jpg" height="70" class="w-100" alt="abc"></a>
+					<a href="#"><img src="images/img16.jpg" height="70" class="w-100" alt="abc"></a>
 				  </figure>
 			  </div>
 		</div>
@@ -452,7 +452,7 @@ Writers: <span class="pull-right">Subhash Kapoor</span></h6>
 	    <div class="footer_1i1i">
 		  <div class="grid clearfix">
 				  <figure class="effect-jazz mb-0">
-					<a href="#"><img src="img17.jpg" height="70" class="w-100" alt="abc"></a>
+					<a href="#"><img src="images/img17.jpg" height="70" class="w-100" alt="abc"></a>
 				  </figure>
 			  </div>
 		</div>
@@ -461,7 +461,7 @@ Writers: <span class="pull-right">Subhash Kapoor</span></h6>
 	    <div class="footer_1i1i">
 		  <div class="grid clearfix">
 				  <figure class="effect-jazz mb-0">
-					<a href="#"><img src="img18.jpg" height="70" class="w-100" alt="abc"></a>
+					<a href="#"><img src="images/img18.jpg" height="70" class="w-100" alt="abc"></a>
 				  </figure>
 			  </div>
 		</div>
@@ -470,7 +470,7 @@ Writers: <span class="pull-right">Subhash Kapoor</span></h6>
 	    <div class="footer_1i1i">
 		  <div class="grid clearfix">
 				  <figure class="effect-jazz mb-0">
-					<a href="#"><img src="img19.jpg" height="70" class="w-100" alt="abc"></a>
+					<a href="#"><img src="images/img19.jpg" height="70" class="w-100" alt="abc"></a>
 				  </figure>
 			  </div>
 		</div>
@@ -481,7 +481,7 @@ Writers: <span class="pull-right">Subhash Kapoor</span></h6>
 	    <div class="footer_1i1i">
 		  <div class="grid clearfix">
 				  <figure class="effect-jazz mb-0">
-					<a href="#"><img src="img20.jpg" height="70" class="w-100" alt="abc"></a>
+					<a href="#"><img src="images/img20.jpg" height="70" class="w-100" alt="abc"></a>
 				  </figure>
 			  </div>
 		</div>
@@ -490,7 +490,7 @@ Writers: <span class="pull-right">Subhash Kapoor</span></h6>
 	    <div class="footer_1i1i">
 		  <div class="grid clearfix">
 				  <figure class="effect-jazz mb-0">
-					<a href="#"><img src="img21.jpg" height="70" class="w-100" alt="abc"></a>
+					<a href="#"><img src="images/img21.jpg" height="70" class="w-100" alt="abc"></a>
 				  </figure>
 			  </div>
 		</div>
@@ -499,7 +499,7 @@ Writers: <span class="pull-right">Subhash Kapoor</span></h6>
 	    <div class="footer_1i1i">
 		  <div class="grid clearfix">
 				  <figure class="effect-jazz mb-0">
-					<a href="#"><img src="img22.jpg" height="70" class="w-100" alt="abc"></a>
+					<a href="#"><img src="images/img22.jpg" height="70" class="w-100" alt="abc"></a>
 				  </figure>
 			  </div>
 		</div>
@@ -508,7 +508,7 @@ Writers: <span class="pull-right">Subhash Kapoor</span></h6>
 	    <div class="footer_1i1i">
 		  <div class="grid clearfix">
 				  <figure class="effect-jazz mb-0">
-					<a href="#"><img src="img23.jpg" height="70" class="w-100" alt="abc"></a>
+					<a href="#"><img src="images/img23.jpg" height="70" class="w-100" alt="abc"></a>
 				  </figure>
 			  </div>
 		</div>

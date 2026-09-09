@@ -208,7 +208,7 @@
    <div class="play2l">
      <div class="grid clearfix">
 				  <figure class="effect-jazz mb-0">
-					<a href="#"><img src="img900.jpg" height="515" class="w-100"  alt="abc"></a>
+					<a href="#"><img src="images/img900.jpg" height="515" class="w-100"  alt="abc"></a>
 				  </figure>
 			  </div>
    </div>
@@ -276,7 +276,7 @@ Writers: <span class="pull-right">Ritesh Shah</span></h6>
 	<div class="play2ri row mt-4">
 	<div class="cast-container">
     <div class="cast-member">
-        <a href="https://en.m.wikipedia.org/wiki/John_Abraham"><img src="img911.jpg" alt="Cast 1"></a>
+        <a href="https://en.m.wikipedia.org/wiki/John_Abraham"><img src="images/img911.jpg" alt="Cast 1"></a>
         <h5 class="mt-3"><span class="col_red">John Abraham</span></h5>
 		<h6>Vicky</h6>
     </div>
@@ -285,7 +285,7 @@ Writers: <span class="pull-right">Ritesh Shah</span></h6>
 
 
     <div class="cast-member">
-       <a href="https://en.m.wikipedia.org/wiki/Sadia_Khateeb"> <img src="img922.jpg" alt="Cast 2"></a>
+       <a href="https://en.m.wikipedia.org/wiki/Sadia_Khateeb"> <img src="images/img922.jpg" alt="Cast 2"></a>
         <h5 class="mt-3"><span class="col_red">Shraddha Kapoor</span></h5>
 		<h6>Unnamed Woman</h6>
     </div>
@@ -294,7 +294,7 @@ Writers: <span class="pull-right">Ritesh Shah</span></h6>
 
 
     <div class="cast-member">
-       <a href="https://en.m.wikipedia.org/wiki/Kumud_Mishra"> <img src="img933.jpg" alt="Cast 3"></a>
+       <a href="https://en.m.wikipedia.org/wiki/Kumud_Mishra"> <img src="images/img933.jpg" alt="Cast 3"></a>
         <h5 class="mt-3"><span class="col_red">Kumud Mishra</span></h5>
 		<h6>Unnamaed</h6>
     </div>
@@ -337,9 +337,9 @@ Writers: <span class="pull-right">Ritesh Shah</span></h6>
 
  <div class="play2ri row mt-4">		
 	<div class="image-row">
-	<img src="img977.jpg" alt="Image 1">
-    <img src="img988.jpg" alt="Image 2">
-    <img src="img999.jpg" alt="Image 3">
+	<img src="images/img977.jpg" alt="Image 1">
+    <img src="images/img988.jpg" alt="Image 2">
+    <img src="images/img999.jpg" alt="Image 3">
 	 </div>
  </div>
  </div>
@@ -435,7 +435,7 @@ Writers: <span class="pull-right">Ritesh Shah</span></h6>
 	    <div class="footer_1i1i">
 		  <div class="grid clearfix">
 				  <figure class="effect-jazz mb-0">
-					<a href="#"><img src="img16.jpg" height="70" class="w-100" alt="abc"></a>
+					<a href="#"><img src="images/img16.jpg" height="70" class="w-100" alt="abc"></a>
 				  </figure>
 			  </div>
 		</div>
@@ -444,7 +444,7 @@ Writers: <span class="pull-right">Ritesh Shah</span></h6>
 	    <div class="footer_1i1i">
 		  <div class="grid clearfix">
 				  <figure class="effect-jazz mb-0">
-					<a href="#"><img src="img17.jpg" height="70" class="w-100" alt="abc"></a>
+					<a href="#"><img src="images/img17.jpg" height="70" class="w-100" alt="abc"></a>
 				  </figure>
 			  </div>
 		</div>
@@ -453,7 +453,7 @@ Writers: <span class="pull-right">Ritesh Shah</span></h6>
 	    <div class="footer_1i1i">
 		  <div class="grid clearfix">
 				  <figure class="effect-jazz mb-0">
-					<a href="#"><img src="img18.jpg" height="70" class="w-100" alt="abc"></a>
+					<a href="#"><img src="images/img18.jpg" height="70" class="w-100" alt="abc"></a>
 				  </figure>
 			  </div>
 		</div>
@@ -462,7 +462,7 @@ Writers: <span class="pull-right">Ritesh Shah</span></h6>
 	    <div class="footer_1i1i">
 		  <div class="grid clearfix">
 				  <figure class="effect-jazz mb-0">
-					<a href="#"><img src="img19.jpg" height="70" class="w-100" alt="abc"></a>
+					<a href="#"><img src="images/img19.jpg" height="70" class="w-100" alt="abc"></a>
 				  </figure>
 			  </div>
 		</div>
@@ -473,7 +473,7 @@ Writers: <span class="pull-right">Ritesh Shah</span></h6>
 	    <div class="footer_1i1i">
 		  <div class="grid clearfix">
 				  <figure class="effect-jazz mb-0">
-					<a href="#"><img src="img20.jpg" height="70" class="w-100" alt="abc"></a>
+					<a href="#"><img src="images/img20.jpg" height="70" class="w-100" alt="abc"></a>
 				  </figure>
 			  </div>
 		</div>
@@ -482,7 +482,7 @@ Writers: <span class="pull-right">Ritesh Shah</span></h6>
 	    <div class="footer_1i1i">
 		  <div class="grid clearfix">
 				  <figure class="effect-jazz mb-0">
-					<a href="#"><img src="img21.jpg" height="70" class="w-100" alt="abc"></a>
+					<a href="#"><img src="images/img21.jpg" height="70" class="w-100" alt="abc"></a>
 				  </figure>
 			  </div>
 		</div>
@@ -491,7 +491,7 @@ Writers: <span class="pull-right">Ritesh Shah</span></h6>
 	    <div class="footer_1i1i">
 		  <div class="grid clearfix">
 				  <figure class="effect-jazz mb-0">
-					<a href="#"><img src="img22.jpg" height="70" class="w-100" alt="abc"></a>
+					<a href="#"><img src="images/img22.jpg" height="70" class="w-100" alt="abc"></a>
 				  </figure>
 			  </div>
 		</div>
@@ -500,7 +500,7 @@ Writers: <span class="pull-right">Ritesh Shah</span></h6>
 	    <div class="footer_1i1i">
 		  <div class="grid clearfix">
 				  <figure class="effect-jazz mb-0">
-					<a href="#"><img src="img23.jpg" height="70" class="w-100" alt="abc"></a>
+					<a href="#"><img src="images/img23.jpg" height="70" class="w-100" alt="abc"></a>
 				  </figure>
 			  </div>
 		</div>
