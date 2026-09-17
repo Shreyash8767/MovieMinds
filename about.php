@@ -55,7 +55,7 @@ if (!isset($_SESSION["user"])) {
                 <div class="top_1r text-end">
                     <ul class="social-network social-circle mb-0">
                         <li>
-                            <a href="https://www.instagram.com/swastik.kashyap23/"
+                            <a href="https://www.instagram.com/shreyashthorawade_?stkn=MTd0cmk5Y25iaGl6Mg=="
                                class="icoRss"
                                title="Instagram">
                                 <i class="fa fa-instagram"></i>
@@ -63,7 +63,7 @@ if (!isset($_SESSION["user"])) {
                         </li>
 
                         <li>
-                            <a href="https://www.linkedin.com/in/swastik-kashyap-92a77b284"
+                            <a href="https://www.linkedin.com/in/shreyash-thorawade-3ab3b62b8"
                                title="Linkedin">
                                 <i class="fa fa-linkedin"></i>
                             </a>
@@ -286,7 +286,7 @@ if (!isset($_SESSION["user"])) {
 
                         <p class="mt-3">
 
-                            An Entertainment Website Project by Swastik and Viraj
+                            An Entertainment Website Project by Shreyash and Pratik
                             to show the rating and reviews of various movies and series.
 
                         </p>
@@ -303,7 +303,7 @@ if (!isset($_SESSION["user"])) {
                         <h6 class="fw-normal mt-3">
 
                             <i class="fa fa-envelope fs-5 align-middle col_red me-1"></i>
-                            swastikkashyap25@gmail.com
+                            Shreyashthorawade@gmail.com
 
                         </h6>
 
@@ -311,7 +311,7 @@ if (!isset($_SESSION["user"])) {
                         <h7 class="fw-normal mt-3">
 
                             <i class="fa fa-envelope fs-5 align-middle col_red me-1"></i>
-                            viruupatil81@gmail.com
+                            pratiksuryawanshi76@gmail.com
 
                         </h7>
 
@@ -555,7 +555,7 @@ if (!isset($_SESSION["user"])) {
                         <ul class="social-network social-circle mb-0 mt-4">
 
                             <li>
-                                <a href="https://www.instagram.com/swastik.kashyap23/"
+                                <a href="https://www.instagram.com/shreyashthorawade_?stkn=MTd0cmk5Y25iaGl6Mg=="
                                    class="icoRss"
                                    title="Instagram">
 
@@ -566,7 +566,7 @@ if (!isset($_SESSION["user"])) {
 
 
                             <li>
-                                <a href="https://www.linkedin.com/in/swastik-kashyap-92a77b284"
+                                <a href="https://www.linkedin.com/in/shreyash-thorawade-3ab3b62b8"
                                    class="icoLinkedin"
                                    title="Linkedin">
 
