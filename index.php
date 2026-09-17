@@ -692,14 +692,14 @@ Release Date: <span class="pull-right">15 Aug 2024</span></h6>
 	 <div class="footer_1i">
 	   <h3><a class="text-white" href="index.php"><i class="fa fa-video-camera col_red me-1"></i>MovieHub</a></h3>
 
-	   <p class="mt-3">An Entertainment Website Project by Swastik and Viraj to show the rating and reviews of various movies and series.  </p>
+	   <p class="mt-3">An Entertainment Website Project by Shreyash and Pratik to show the rating and reviews of various movies and series.  </p>
 
 	   <h6 class="fw-normal"><i class="fa fa-map-marker fs-5 align-middle col_red me-1"></i> Godavari Bunglow, Wakad, Pune</h6>
        
 
-	 <h6 class="fw-normal mt-3"><i class="fa fa-envelope fs-5 align-middle col_red me-1"></i> swastikkashyap25@gmail.com </h6>
-	<h7 class="fw-normal mt-3"><i class="fa fa-envelope fs-5 align-middle col_red me-1"></i> viruupatil81@gmail.com </h7>
-		<h6 class="fw-normal mt-3 mb-0"><i class="fa fa-phone fs-5 align-middle col_red me-1"></i> 9798045853,9665159617</h6>
+	 <h6 class="fw-normal mt-3"><i class="fa fa-envelope fs-5 align-middle col_red me-1"></i> Shreyashthorawade@gmail.com </h6>
+	<h7 class="fw-normal mt-3"><i class="fa fa-envelope fs-5 align-middle col_red me-1"></i> pratiksuryawanshi76@gmail.com </h7>
+		<h6 class="fw-normal mt-3 mb-0"><i class="fa fa-phone fs-5 align-middle col_red me-1"></i> 876704594,8767571615</h6>
 	 </div>
 	</div>
 	<div class="col-md-4">
@@ -790,10 +790,10 @@ Release Date: <span class="pull-right">15 Aug 2024</span></h6>
 	  
       
 		<ul class="social-network social-circle mb-0 mt-4">
-			<li><a href="https://www.instagram.com/swastik.kashyap23/" class="icoRss" title="Rss"><i class="fa fa-instagram"></i></a></li>
+			<li><a href="https://www.instagram.com/shreyashthorawade_?stkn=MTd0cmk5Y25iaGl6Mg==" class="icoRss" title="Rss"><i class="fa fa-instagram"></i></a></li>
 						
 			
-			<li><a href="https://www.linkedin.com/in/viraj812005?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" class="icoLinkedin" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
+			<li><a href="https://www.linkedin.com/in/shreyash-thorawade-3ab3b62b8" class="icoLinkedin" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
 		</ul>
 	 </div><br>
 	 <a href="contact.php"><h4>Contact Us</h4></a>
